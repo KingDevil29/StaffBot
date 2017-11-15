@@ -1,4 +1,4 @@
-# FCG DiscordBot
+# StaffBot DiscordBot
 
 
 All these bots are public domain, If you want to fork or use them you may.
